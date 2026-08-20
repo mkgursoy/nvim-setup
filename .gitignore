@@ -1,0 +1,5 @@
+.netrwhist
+lazy-lock.json.bak
+*.log
+
+.env
