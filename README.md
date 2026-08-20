@@ -5,8 +5,8 @@ A modern, fast, and fully customizable Neovim configuration written in **Lua** a
 ## Overview & Screenshots
 
 <p align="center">
-  <img src="https://ibb.co/rKPdsk5H" alt="Neovim Overview 1" width="48%" />
-  <img src="https://ibb.co/yF20kSpR" alt="Neovim Overview 2" width="48%" />
+  <a href="https://ibb.co/rKPdsk5H"><img src="https://i.ibb.co/rKPdsk5H/Screenshot-2026-08-20-at-17-31-03.png" alt="Split-Screen" border="0"></a>
+  <a href="https://ibb.co/yF20kSpR"><img src="https://i.ibb.co/yF20kSpR/Screenshot-2026-08-20-at-17-30-39.png" alt="Colorscheme" border="0"></a>
 </p>
 
 ---
